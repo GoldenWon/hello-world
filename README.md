@@ -1,2 +1,3 @@
 # hello-world
 Just learning the system...
+I'm currently five classes away from graduating with an Associate's Degree from my Computer Programming Tech program.  In between college classes like Visual Basic and Java, I've learned a little bit about Lua, Python, and C++ on my own.  My goal is to shift my career over to computer programming and eventually learn enough to make my own games and other software.
